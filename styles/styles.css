@@ -92,6 +92,21 @@ body {
     text-decoration: none;
 }
 
+.phone {
+    background: url(../img/phone.svg) no-repeat left;
+        padding-left: 24px;
+}
+
+.mail {
+    background: url(../img/email.svg) no-repeat left;
+    padding-left: 24px;
+}
+
+.linkedin {
+    background: url(../img/linkedin.svg) no-repeat left;
+        padding-left: 24px;
+}
+
 .tech-skills-list {
     color: #fff;
     padding: 0;
@@ -203,5 +218,4 @@ body {
     line-height: 24px;
     color: #595959;
 }
-
 
