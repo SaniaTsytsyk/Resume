@@ -48,12 +48,14 @@ body {
 }
 
 .sidebar {
-    background-color: transparent;
+    background-color: #6B9999;
     padding-top: 40px;
     width: 370px;
 }
 
 .photo {
+    border: 3px solid white;
+    border-radius: 90%;
     width: 370px;
     margin-bottom: 50px;
 }
@@ -66,7 +68,7 @@ body {
 }
 
 .sidebar-title {
-    color: #000000;
+    color: white;
     font-style: normal;
     font-weight: 700;
     font-size: 22px;
@@ -95,16 +97,19 @@ body {
 .phone {
     background: url(../img/phone.svg) no-repeat left;
         padding-left: 24px;
+        color: white;
 }
 
 .mail {
     background: url(../img/email.svg) no-repeat left;
     padding-left: 24px;
+    color: white;
 }
 
 .linkedin {
     background: url(../img/linkedin.svg) no-repeat left;
         padding-left: 24px;
+        color: white;
 }
 
 .tech-skills-list {
@@ -114,11 +119,11 @@ body {
 }
 
 .tech-skills-item {
-    color: rgba(251, 109, 58, 1);
+    color: white;
 }
 
 .tech-skills-span {
-    color: #000000;
+    color: white;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -130,7 +135,7 @@ body {
     font-weight: 700;
     font-size: 22px;
     line-height: 27px;
-    color: #000000;
+    color: #6B9999;
     margin-bottom: 10px;
 }
 
@@ -186,7 +191,7 @@ body {
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
-    color: rgba(251, 109, 58, 1);
+    color: #000000;
 }
 
 .period {
@@ -218,4 +223,3 @@ body {
     line-height: 24px;
     color: #595959;
 }
-
